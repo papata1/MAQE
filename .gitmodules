@@ -1,3 +1,6 @@
 [submodule "template"]
 	path = template
 	url = https://github.com/papata1/MAQE
+[submodule "MAQE/template"]
+	path = MAQE/template
+	url = https://github.com/papata1/MAQE
